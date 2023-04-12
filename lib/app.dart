@@ -9,10 +9,6 @@ class MyGellary extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // var mediaQueryData = MediaQuery.of(context);
-    // double screenHeight = mediaQueryData.size.height;
-    // double screenWeight = mediaQueryData.size.width;
-
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
